@@ -4,3 +4,5 @@ pymongo[srv]
 marshmallow
 python-dotenv
 gunicorn
+flask-socketio
+eventlet
